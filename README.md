@@ -1,2 +1,4 @@
 # LatihanGit
-latihan git
+repo ini isinya cuma latian git aja .. 
+
+
