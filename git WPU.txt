@@ -1,0 +1,23 @@
+GIT TRAINING
+- GIT init === inisiasi folder jadi repo git
+- GIT status === cek status ada yg di modif ga
+- git add . ==== nambah semua data yg dimodif ke staging area
+- git commit -m "pesan"  ==== commit file
+- git clone httpsxxx === ngeclone git dr github
+- git push === ngirim perubahan clone ke github
+- git pull === comot isi repo dari github
+- git remote -v === cek ada remote kaga 
+- git fetch ===  cek git yg diremote dan branch sama ga
+
+
+alias graph : buat cek head dimana
+alias graph="git log --all --decorate --oneline --graph"
+
+
+git config --list ====  cek siapa yg login 
+
+keluar dari viu == :q 
+>ganti user yang login di git pc
+git config --global user.name "username"
+git config --global user.email "email"
+
